@@ -1,16 +1,17 @@
-### Hi there 👋
+```js
+class Fristy {
+  constructor(...options) {
+    this.height = "1.70"
+    this.weight = "60"
+    this.type = "human"
+    this.job = "student"
+    this.sex = "male"
+  }
+}
+```
 
-<!--
-**Fristyyy/Fristyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/346226821299437568?hideDiscrim=true)](https://discord.com/users/346226821299437568)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Languages
+- ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=cyan)
+- ![](https://img.shields.io/badge/Tools-MongoDB-black?style=flat-square&logo=mongodb&logoColor=cyan)
