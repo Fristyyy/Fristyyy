@@ -2,12 +2,13 @@
 class Fristy {
   constructor(...options) {
     this.height = "1.70"
-    this.weight = "60"
+    this.weight = "65"
     this.type = "human"
     this.job = "student"
     this.sex = "male"
   }
-}
+};
+module.exports = Fristy;
 ```
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/346226821299437568?hideDiscrim=true)](https://discord.com/users/346226821299437568)
