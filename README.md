@@ -1,8 +1,4 @@
-<!-- ## 🔧 Languages -->
-<!-- - ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=cyan) -->
-<!-- - ![](https://img.shields.io/badge/Tools-MongoDB-black?style=flat-square&logo=mongodb&logoColor=cyan) -->
-
-# Merhaba, Ben fristy. GitHub Profilime Hoş Geldiniz :)
+# Merhaba, Ben fristy?. GitHub Profilime Hoş Geldiniz :)
 
 Burada sadece bazı projelerimi, becerilerimi ve deneyimlerimi paylaşmak için buradayım. Aşağıda, bazı projelerime ve iletişim bilgilerime göz atabilirsiniz.
 
@@ -17,7 +13,7 @@ Burada sadece bazı projelerimi, becerilerimi ve deneyimlerimi paylaşmak için 
 
 ## Lisans
 
-Tüm projelerim [MIT Lisansı]([link](https://github.com/Fristyyy/Fristyyy/blob/main/LICENSE)) altında lisanslanmıştır.
+Tüm projelerim [MIT Lisansı](https://github.com/Fristyyy/Fristyyy/blob/main/LICENSE) altında lisanslanmıştır.
 
 ## İletişim
 
