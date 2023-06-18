@@ -1,6 +1,7 @@
 # Merhaba, Ben fristy?. GitHub Profilime Hoş Geldiniz :)
 
-Burada sadece bazı projelerimi, becerilerimi ve deneyimlerimi paylaşmak için buradayım. Aşağıda, bazı projelerime ve iletişim bilgilerime göz atabilirsiniz.
+Ağırlıklı olarak web geliştirme ile ilgileniyorum. Hayal kurmayı seviyorum ve amacım ilginç projeler geliştirmek.
+Aşağıda, bazı projelerime ve iletişim bilgilerime göz atabilirsiniz.
 
 ## Projeler
 
