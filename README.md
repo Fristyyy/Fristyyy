@@ -14,7 +14,6 @@ Burada sadece bazı projelerimi, becerilerimi ve deneyimlerimi paylaşmak için 
 
 ## Discord Presence
 [![Discord Presence](https://lanyard.cnrad.dev/api/1014549805608992901)](https://discord.com/users/1014549805608992901)
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1014549805608992901)](https://discord.com/users/1014549805608992901)
 
 ## Lisans
 
