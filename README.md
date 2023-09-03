@@ -3,11 +3,11 @@
 Ağırlıklı olarak web geliştirme ile ilgileniyorum. Hayal kurmayı seviyorum ve amacım ilginç projeler geliştirmek.
 Aşağıda, bazı projelerime ve iletişim bilgilerime göz atabilirsiniz.
 
-## Projeler
+<!--## Projeler
 
 - [Proje 1](link1): Kısa açıklama 1.
 - [Proje 2](link2): Kısa açıklama 2.
-- [Proje 3](link3): Kısa açıklama 3.
+- [Proje 3](link3): Kısa açıklama 3.-->
 
 ## Discord Presence
 [![Discord Presence](https://lanyard.cnrad.dev/api/1014549805608992901)](https://discord.com/users/1014549805608992901)
