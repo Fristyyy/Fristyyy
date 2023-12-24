@@ -18,8 +18,9 @@ Tüm projelerim [MIT Lisansı](https://github.com/Fristyyy/Fristyyy/blob/main/LI
 
 ## İletişim
 
-- E-Posta: me@fristy.tk
+- E-Posta: admin@fristy.net
 - Discord: [Discord Profilime Ulaşmak içi Tıkla](https://discord.com/users/1014549805608992901)
+- Discord: [Discord Sunucuma Gelmek içi Tıkla](https://dc.fristy.net/)
 
 <!--## Proje Ekran Görüntüleri
 
